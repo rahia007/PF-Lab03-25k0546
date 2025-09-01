@@ -23,3 +23,14 @@
 ## 📫 Let’s Connect
 
 I’m always excited to collaborate, learn from others, and contribute to open-source projects
+
+## 📌 My Goals  
+1. Complete my CS degree with excellence  
+2. Build impactful projects  
+3. Contribute to open-source communities  
+
+## 💻 Skills & Interests  
+- C++ & Python programming  
+- Problem solving with data structures  
+- Ethical hacking (basics)  
+- Automation scripts & small projects
